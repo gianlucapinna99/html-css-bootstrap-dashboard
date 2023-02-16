@@ -33,9 +33,12 @@ header div{
 
 /* MAIN */
 
+.main{
+    height: 100%;
+}
+
 .sidebar{
     background-color: #051f35;
-    height: 100vh;
 }
 
 h6{
