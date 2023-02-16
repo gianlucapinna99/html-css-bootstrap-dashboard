@@ -2,10 +2,164 @@ nav div button i{
     color: #5a5859
 }
 
+
+header div{
+    height: 70px;
+}
 .fa-bell{
     color: #fe8f01;
 }
 
 .bell{
     padding: 0px;
+}
+
+.form-header {
+    background-color: #e4e5e4;
+}
+
+.logo-mobile, .logo{
+    height: 70%;
+}
+
+.logo{
+    margin-right: 20px;
+}
+
+.navbar div div{
+    padding-right: 0px;
+}
+
+
+/* MAIN */
+
+.sidebar{
+    background-color: #051f35;
+    height: 100vh;
+}
+
+h6{
+    color: white;
+}
+
+.sidebar_icons{
+    padding: 30px;
+    list-style: none;
+}
+
+.sidebar_icons li{
+    margin-top: 10px;
+}
+.sidebar_icons .fa-solid{
+    margin-right: 10px;
+    color: white;
+}
+
+.fa-chart-simple{
+    width: 22.5px;
+}
+
+.admin{
+  margin-top: auto;
+}
+
+.sidebar_icons li{
+    display: flex;
+}
+
+
+
+
+/* MAIN-header */
+
+
+.header-main{
+    background-color: #1a73e8;
+    padding: 30px;
+}
+
+.header-main h1{
+display: inline-block;
+color: white;
+}
+
+.header-main div h4{
+    color: white;
+    display: inline-block;
+    font-size: 15px;
+    align-self: center;
+}
+
+.button{
+    border-radius: 20px;
+    color: white;
+    background-color: #175bbb;
+    border: none;
+    padding: 0px 10px;
+}
+
+.white-btn{
+    border: solid white 1px;
+    color: white;
+}
+
+.header-main{
+    gap: 20px;
+}
+
+.button{
+    display: inline-block;
+}
+
+.card{
+    margin: 15px;
+}
+
+
+/* TABLE */
+
+.done{
+    background-color: #188654;
+}
+
+
+.process{
+    background-color: #fec20d;
+}
+
+
+.failed{
+    background-color: #dc3545;
+}
+
+.fa-trash, .fa-pen{
+    color: #6d747d;
+}
+
+.action{
+    border: solid #6d747d 1px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.save{
+    background-color: #0d6ffc;
+    color: white;
+}
+
+.clean{
+    background-color: #fec106; 
+}
+
+.clean, .save{
+    padding: 5px;
+    margin: 5px;
+}
+
+.form-side{
+    width: 800px;
+}
+
+.form-content{
+    padding: 15px;
 }
